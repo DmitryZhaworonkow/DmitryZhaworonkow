@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene on My New Hugo Site</title>
+    <title>scene on Язык цветов. Что означают цветы</title>
     <link>https://DmitryZhaworonkow.github.io/tags/scene/</link>
-    <description>Recent content in scene on My New Hugo Site</description>
+    <description>Recent content in scene on Язык цветов. Что означают цветы</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ru-us</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     <atom:link href="https://DmitryZhaworonkow.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,7 +23,7 @@
       <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
     </item>
     <item>
-      <title>Chapter I: The Grand Hall</title>
+      <title>глава I: The Grand Hall</title>
       <link>https://DmitryZhaworonkow.github.io/en/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <guid>https://DmitryZhaworonkow.github.io/en/post/chapter-1/</guid>

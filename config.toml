@@ -1,21 +1,21 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://DmitryZhaworonkow.github.io"
-languageCode = "en-us"
+languageCode = "ru-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 publishDir="docs"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
+  [languages.ru]
     title = "Ananke"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content/ru"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fr]
     title = "Ananke Fr"

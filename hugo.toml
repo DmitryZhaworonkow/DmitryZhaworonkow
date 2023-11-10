@@ -1,5 +1,6 @@
 baseURL = 'https://DmitryZhaworonkow.github.io'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ru-us'
+title = 'Язык цветов. Что означают цветы'
 theme = 'ananke'
 publishDir="docs"
+
