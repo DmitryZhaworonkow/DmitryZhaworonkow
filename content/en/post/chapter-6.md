@@ -2,7 +2,7 @@
 date: 2023-11-10T11:25:05-04:00
 description: "Одуванчик"
 featured_image: "/images/1.jpg"
-tags: ["scene"]
+tags: []
 title: "Одуванцик"
 disable_share: false
 ---
